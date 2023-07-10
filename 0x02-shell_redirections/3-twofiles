@@ -1,0 +1,2 @@
+#!bin/bashsudo 
+sudo cat /etc/passwd /etc/hosts
